@@ -5,7 +5,7 @@
 	<groupId>com.DemoATR</groupId>
 	<artifactId>DemoATR</artifactId>
 	<packaging>war</packaging>
-	<version>1.0.12</version>
+	<version>1.0</version>
 	
 	<dependencies>
 		<dependency>
@@ -24,9 +24,5 @@
 			
 	</dependencies>
 
-	<build>
-		<finalName>DemoATR</finalName>
-	</build>
-	
 </project>
 
